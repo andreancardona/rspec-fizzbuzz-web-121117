@@ -1,3 +1,3 @@
 def fizzbuzz (num)
- if (num%3===1)
+ if (num%3===0)
 return fizz
