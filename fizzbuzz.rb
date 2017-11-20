@@ -3,4 +3,3 @@ def fizzbuzzn(int)
     return "Fizz" # Go fizz
    end
  end
-
